@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydub
+numpy
+opencv-python
+transformers
+torch
+whisper
+scikit-learn
+pillow
+moviepy
+matplotlib
+requests
